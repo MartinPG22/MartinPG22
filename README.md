@@ -1,4 +1,4 @@
-# github.io# Hi there 👋, I'm Martín Portugal González
+# Hi there 👋, I'm Martín Portugal González
 
 Welcome to my GitHub profile! I'm passionate about Software Development, Cybersecurity, and Artificial Intelligence. 
 
