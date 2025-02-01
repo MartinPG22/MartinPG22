@@ -13,16 +13,14 @@ Feel free to explore my repositories and connect with me!
 
 ---
 
-### 🔭 Current Projects
+## 🔭 Current Projects  
 
-| Repository | Description |
-|------------|-------------|
-| **([Tratamiento de Imagenes con C++](https://github.com/MartinPG22/imtool))** | 🛠️ En este proyecto se creara un codigo ejecutable en C++ para el tratamiento de imagenes siguiendo dos enfoques SOA (Struct of Arrays) y AOS (Arrays of Structures) implementando funcionalidades como redimensionar imagenes, eliminar los colores menos frecuentes, etc.. todo ello buscando la maxima eficiencia y siguiendo buenas practicas de programación  |
-| **([CSP y Búsqueda Heurística](https://github.com/MartinPG22/imtool))** | 🛠️ Descripcion |
-| **([url del i](https://github.com/MartinPG22/imtool))** | 🛠️ Descripcion |
-| **([SIU](https://github.com/MartinPG22/imtool))** | 🛠️ Descripcion |
-| **([Cluster de Estrellas. No esta](https://github.com/MartinPG22/imtool))** | 🛠️ Descripcion |
-
+| Repository | Description |  
+|------------|-------------|  
+| **[Image Processing with C++](https://github.com/MartinPG22/imtool)** | 🛠️ This project focuses on developing an executable C++ program for image processing, implementing two approaches: SOA (Structure of Arrays) and AOS (Array of Structures). The program includes functionalities such as image resizing and removing the least frequent colors, all while ensuring maximum efficiency and following best programming practices. |  
+| **[CSP and Heuristic Search](https://github.com/MartinPG22/CSP---Busqueda-Heuristica)** | 🚑 This project addresses a complex heuristic problem: optimizing ambulance deployment across a geographical area. The goal is to strategically position a limited number of ambulances to maximize coverage and minimize response time, while considering constraints such as resource limitations and population density. |  
+| **[Harmonize App](https://github.com/MartinPG22/Interactive-and-Ubiquitous-Systems)** | 🎵 This system consists of a web application and its mobile counterpart, where the mobile device serves as a controller for a shopping cart operated through movements and gestures. Meanwhile, the web application allows users to visualize the cart and confirm purchases. |  
+| **[Star Clustering](https://github.com/MartinPG22/imtool)** | 🚀 In this project, we applied clustering techniques to categorize stars based on their properties. Some clusters matched known star types, such as red and brown dwarfs, while others exhibited atypical or distinctive characteristics, suggesting the need for further investigation. |  
 
 More repositories are available in the [Repositories tab](https://github.com/MartinPG22?tab=repositories). Feel free to explore!
 
