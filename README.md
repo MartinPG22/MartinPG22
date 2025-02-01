@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about Software Development, Cyberse
 
 ---
 
-###🎓 About Me
+## 🎓 About Me
 - 🎓 Final-year Computer Engineering student at Universidad Carlos III de Madrid (UC3M).
 - 💡 Interested in high-performance computing, data structures, algorithms, and secure software development.
 - 🔐 Passionate about cybersecurity, ethical hacking, and system vulnerabilities.
