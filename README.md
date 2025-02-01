@@ -39,5 +39,5 @@ More repositories are available in the [Repositories tab](https://github.com/Mar
 
 ### 📫 Let's Connect
 
-- 🌐 [LinkedIn](www.linkedin.com/in/martin-portugal)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/martin-portugal)
 - 📧 [Email](mailto:martin.prt.glez@gmail.com)
