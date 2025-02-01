@@ -17,11 +17,11 @@ Feel free to explore my repositories and connect with me!
 
 | Repository | Description |
 |------------|-------------|
-| **[Imtool]([url del imtool](https://github.com/MartinPG22/imtool))** | 🛠️ Descripcion |
-| **[Imtool]([url del imtool](https://github.com/MartinPG22/imtool))** | 🛠️ Descripcion |
-| **[Imtool]([url del imtool](https://github.com/MartinPG22/imtool))** | 🛠️ Descripcion |
-| **[Imtool]([url del imtool](https://github.com/MartinPG22/imtool))** | 🛠️ Descripcion |
-| **[Imtool]([url del imtool](https://github.com/MartinPG22/imtool))** | 🛠️ Descripcion |
+| **([Tratamiento de Imagenes con C++](https://github.com/MartinPG22/imtool))** | 🛠️ En este proyecto se creara un codigo ejecutable en C++ para el tratamiento de imagenes siguiendo dos enfoques SOA (Struct of Arrays) y AOS (Arrays of Structures) implementando funcionalidades como redimensionar imagenes, eliminar los colores menos frecuentes, etc.. todo ello buscando la maxima eficiencia y siguiendo buenas practicas de programación  |
+| **([CSP y Búsqueda Heurística](https://github.com/MartinPG22/imtool))** | 🛠️ Descripcion |
+| **([url del i](https://github.com/MartinPG22/imtool))** | 🛠️ Descripcion |
+| **([SIU](https://github.com/MartinPG22/imtool))** | 🛠️ Descripcion |
+| **([Cluster de Estrellas. No esta](https://github.com/MartinPG22/imtool))** | 🛠️ Descripcion |
 
 
 More repositories are available in the [Repositories tab](https://github.com/MartinPG22?tab=repositories). Feel free to explore!
